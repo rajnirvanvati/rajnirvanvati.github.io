@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Article - Role of *Raj Nirvan Bati* in treatment of Covid19 RT-PCR Positive Case and New Paper Cuttings
+title: Research Article - Role of Raj Nirvan Bati in treatment of Covid19 RT-PCR Positive Case and New Paper Cuttings
 categories: [Corona , Rajnirvanvati]
 show: Corona Symptom Patient पर आयुर्वेदिक औषधि राज निर्वाण वटि का ट्रायल
 ---
