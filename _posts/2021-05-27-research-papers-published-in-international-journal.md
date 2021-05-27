@@ -5,4 +5,4 @@ categories: [Corona , Rajnirvanvati]
 show: Corona Symptom Patient पर आयुर्वेदिक औषधि राज निर्वाण वटि का ट्रायल
 ---
 
-<iframe src="https://drive.google.com/file/d/1PpwxqzLt9E3FbcdIKQ9H0P8UGeD_4lef/preview" width="900" height="600"></iframe>
+<iframe src="https://drive.google.com/file/d/1PpwxqzLt9E3FbcdIKQ9H0P8UGeD_4lef/preview" width="640" height="480"></iframe>
