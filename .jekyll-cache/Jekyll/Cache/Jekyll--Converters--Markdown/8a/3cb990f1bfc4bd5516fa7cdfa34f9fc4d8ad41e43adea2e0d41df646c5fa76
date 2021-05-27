@@ -1,2 +1,0 @@
-I"â<p>Exploiting the vulnerable nostromo version for getting initial shell and finding the hidden dir, cracking the ssh private keys to get user and running journalctl as root and exploiting the journalctl to get root shell.</p>
-:ET
